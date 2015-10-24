@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/mThearpy-master.iml" filepath="$PROJECT_DIR$/mThearpy-master.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/mThearpy.iml" filepath="$PROJECT_DIR$/mThearpy.iml" />
+>>>>>>> 0dd66e854ad9c61562d19df931b2063e9126af36
     </modules>
   </component>
 </project>
